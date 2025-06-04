@@ -1,8 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
 # 課題部分
 
 ## チームメンバー
+柴 唯人([田中ゼミ]（README.md#田中ゼミの紹介))
+好物:お寿司
+趣味:旅行
+出身地:東京都
 
 ### 多摩太郎（[石川ゼミ](README.md#石川先生の紹介)）
 - 趣味：街歩き
@@ -12,11 +17,19 @@
 - 趣味：
 - 特技：
 
+### 長谷川　柊（[新西ゼミ]README.md#新西先生の紹介）
+-趣味：サブカル
+-特技：切り紙
+
 ## 石川先生の紹介
+留学生との交流が多いゼミを行っている。
 
 ## 出原先生の紹介
+インターネット関係に強い先生だ。
 
 
+## 新西先生の紹介
+ゼミ歓迎会でヤンニョムチキンを提供
 ## 作業上の注意
 
 - 個別にブランチを切って作業すること
